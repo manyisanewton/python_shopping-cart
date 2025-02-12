@@ -44,22 +44,24 @@ Shopping Cart Application
 2. Display cart
 3. Remove item from cart
 4. Quit
-Choose an option: 1
-Enter the name of the item: Apple
-Enter the price of the item: 1.50
-Apple has been added to the cart.
 
-Choose an option: 2
-Shopping Cart:
-1. Apple: $1.50
-Total price: $1.50
+   <br>
+Choose an option: 1<br>
+Enter the name of the item: Apple<br>
+Enter the price of the item: 1.50<br>
+Apple has been added to the cart.<br>
 
-Choose an option: 3
-Enter the item number you want to remove: 1
-Removed: Apple
+Choose an option: 2<br>
+Shopping Cart:<br>
+1. Apple: $1.50<br>
+Total price: $1.50<br>
+<br>
+Choose an option: 3<br>
+Enter the item number you want to remove: 1<br>
+Removed: Apple<br>
 
-Choose an option: 4
-Exiting the application. Goodbye!
+Choose an option: 4<br>
+Exiting the application. Goodbye!<br>
 
 # Error Handling
 
